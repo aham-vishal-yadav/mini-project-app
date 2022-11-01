@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183566403967",
+    "project_id": "amazing-app-412df",
+    "storage_bucket": "amazing-app-412df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183566403967:android:f8cb0fab725881198d324a",
+        "android_client_info": {
+          "package_name": "com.vishalzoned.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183566403967-tf7qc6ocr60lqrk1uf3j1bs9kfnf3bpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtiuH2HmxT6fZjkCJr7N0XHYVpLsUx3iI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183566403967-tf7qc6ocr60lqrk1uf3j1bs9kfnf3bpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
